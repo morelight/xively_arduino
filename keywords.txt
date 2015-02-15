@@ -19,6 +19,7 @@ get	KEYWORD2
 put	KEYWORD2
 updateValue	KEYWORD2
 setFloat	KEYWORD2
+setInt	KEYWORD2
 setString	KEYWORD2
 setBuffer	KEYWORD2
 getFloat	KEYWORD2
